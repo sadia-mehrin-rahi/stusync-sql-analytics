@@ -1,0 +1,25 @@
+course_id,dept_name,course_name,credit
+101,CSE,Structured Programming,3.0
+102,CSE,Data Structures,3.0
+103,CSE,Algorithms,3.0
+104,CSE,Database Systems,3.0
+105,CSE,Distributed Database,3.0
+106,CSE,Machine Learning,3.0
+107,EEE,Electrical Circuits,3.0
+108,EEE,Electronics I,3.0
+109,EEE,Signals and Systems,1.5
+110,EEE,Power Systems,3.0
+111,EEE,Control Engineering,3.0
+112,EEE,Digital Electronics,3.0
+113,CIVIL,Engineering Mechanics,3.0
+114,CIVIL,Surveying,3.0
+115,CIVIL,Structural Analysis,3.0
+116,CIVIL,Fluid Mechanics,3.0
+117,CIVIL,Geotechnical Engineering,1.5
+118,CIVIL,Concrete Design,3.0
+119,TEXTILE,Yarn Manufacturing,1.5
+120,TEXTILE,Fabric Manufacturing,3.0
+121,TEXTILE,Wet Processing,3.0
+122,TEXTILE,Garment Technology,3.0
+123,TEXTILE,Textile Testing,1.5
+124,TEXTILE,Apparel Merchandising,3.0

@@ -1,0 +1,40 @@
+StuSync - DAX measures
+======================
+In Power BI: select the vw_course_results table on the right (Data pane)
+-> Home > New measure -> paste ONE measure -> press Enter. Repeat for each.
+
+
+Students =
+DISTINCTCOUNT(vw_course_results[student_id])
+
+
+Avg Grade Point =
+AVERAGE(vw_course_results[grade_point])
+
+
+CGPA (credit weighted) =
+DIVIDE(
+    SUMX(vw_course_results, vw_course_results[grade_point] * vw_course_results[credit]),
+    SUM(vw_course_results[credit])
+)
+
+
+Fail Rate =
+DIVIDE(
+    CALCULATE(COUNTROWS(vw_course_results), vw_course_results[result] = "Fail"),
+    COUNTROWS(vw_course_results)
+)
+
+
+At-Risk Results =
+CALCULATE(COUNTROWS(vw_course_results), vw_course_results[is_at_risk] = TRUE())
+
+
+Avg Attendance % =
+AVERAGE(vw_course_results[attendance_pct]) / 100
+
+
+Formatting (after creating each measure, select it and use the Measure tools tab):
+  Avg Grade Point, CGPA (credit weighted) -> Decimal number, 2 decimal places
+  Fail Rate, Avg Attendance %             -> Percentage, 1 decimal place
+  Students, At-Risk Results               -> Whole number

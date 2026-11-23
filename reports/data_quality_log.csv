@@ -1,0 +1,12 @@
+table,issue,rows_affected,action
+students,exact duplicate rows,12,removed
+students,inconsistent department names (case/spaces/dots),289,standardised
+students,mixed gender labels (male/M/F),237,standardised to M/F
+students,missing e-mail,13,kept as NULL
+students,invalid e-mail format,5,set to NULL for follow-up
+students,phone in +880 format,46,converted to 01XXXXXXXXX
+enrollments,enrollment for unknown student,5,removed
+grades,badly typed grade (case/spaces),70,standardised
+grades,invalid grade value,1,removed
+grades,grade for unknown student,1,removed
+attendance,mixed status labels (P/present/A),16101,standardised to Present/Absent

@@ -1,0 +1,413 @@
+student_id,dept_name,name,date_of_birth,gender,email,phone,enrollment_date
+22234100026,cse,Fahim Ahmed,2004-11-02,F,fahim.ahmed26@bubt.edu.bd,01342787299,2025-01-05
+22234100250,CIVIL,Rafi Hossain,2002-01-11,Female,rafi.hossain250@bubt.edu.bd,01946207439,2025-01-05
+22234100224,CIVIL,Zubair Karim,2003-10-16,M,zubair.karim224@bubt.edu.bd,01953038943,2025-01-05
+22234100127,eee,Tanvir Rahman,2002-04-12,F,tanvir.rahman127@bubt.edu.bd,01866910299,2025-01-05
+22234100276,Civil,Nusrat Akter,2003-04-06,M,nusrat.akter276@bubt.edu.bd,01685920319,2025-01-05
+22234100198,E.E.E,Nafis Ahmed,2003-05-20,F,nafis.ahmed198@bubt.edu.bd,01548789478,2025-01-05
+22234100081,CSE,Asif Chowdhury,2004-07-20,M,asif.chowdhury81@bubt.edu.bd,01364247457,2025-01-05
+22234100243,civil ,Sakib Hasan,2002-07-15,M,sakib.hasan243@bubt.edu.bd,01438375916,2025-01-05
+22234100035,CSE,Sumaiya Mia,2003-04-12,male,sumaiya.mia35@bubt.edu.bd,01654058573,2025-01-05
+22234100180,eee,Sakib Karim,2005-08-01,F,,01883226170,2025-01-05
+22234100188,EEE,Tanvir Chowdhury,2004-10-29,Female,tanvir.chowdhury188@bubt.edu.bd,01993650068,2025-01-05
+22234100173,eee,Rakib Sultana,2002-10-12,M,rakib.sultana173@bubt.edu.bd,01584359498,2025-01-05
+22234100164,EEE,Rakib Sarker,2004-11-29,M,rakib.sarker164@bubt.edu.bd,01620593403,2025-01-05
+22234100243,civil ,Sakib Hasan,2002-07-15,M,sakib.hasan243@bubt.edu.bd,01438375916,2025-01-05
+22234100226,Civil,Tahmina Hasan,2004-02-20,Female,tahmina.hasan226@bubt.edu.bd,01664795619,2025-01-05
+22234100211,CIVIL,Mehedi Chowdhury,2005-12-11,Female,mehedi.chowdhury211@bubt.edu.bd,01849599276,2025-01-05
+22234100207,CIVIL,Tasnim Islam,2003-01-17,Female,,01549597485,2025-01-05
+22234100289,CIVIL,Tahmina Khan,2005-08-21,Male,tahmina.khan289@bubt.edu.bd,01541426254,2025-01-05
+22234100047,cse,Zubair Sultana,2004-07-02,male,zubair.sultana47@bubt.edu.bd,01670407340,2025-01-05
+22234100044,Cse,Shanto Mia,2002-05-30,F,shanto.mia44@bubt.edu.bd,01736096655,2025-01-05
+22234100031,cse,Sadia Hossain,2002-11-02,Male,sadia.hossain31@bubt.edu.bd,01784158663,2025-01-05
+22234100341,Textile,Lamia Hossain,2002-02-11,Female,lamia.hossain341@bubt.edu.bd,01355876720,2025-01-05
+22234100095,cse,Ayesha Ahmed,2003-01-04,F,ayesha.ahmed95@bubt.edu.bd,01961344226,2025-01-05
+22234100251,civil ,Sakib Uddin,2002-07-31,male,,+8801584386123,2025-01-05
+22234100119,eee,Sakib Uddin,2004-07-17,male,sakib.uddin119@bubt.edu.bd,01567279295,2025-01-05
+22234100033, CSE ,Zubair Islam,2002-11-29,F,zubair.islam33@bubt.edu.bd,01613326769,2025-01-05
+22234100221,civil ,Fahim Chowdhury,2003-12-10,F,fahim.chowdhury221@bubt.edu.bd,+8801825145751,2025-01-05
+22234100323,TEXTILE,Mehedi Karim,2004-10-13,Female,,01867265875,2025-01-05
+22234100228,Civil,Maliha Islam,2004-03-06,Male,maliha.islam228@bubt.edu.bd,01820612653,2025-01-05
+22234100020,CSE,Arif Islam,2004-04-12,F,arif.islam20@bubt.edu.bd,01617869910,2025-01-05
+22234100254,civil ,Nafis Sarker,2002-06-07,Female,nafis.sarker254@bubt.edu.bd,01893890601,2025-01-05
+22234100314,textile,Sakib Begum,2004-02-02,F,sakib.begum314@bubt.edu.bd,01722828128,2025-01-05
+22234100077,Cse,Rafi Uddin,2003-07-12,male,rafi.uddin77@bubt.edu.bd,+8801390267122,2025-01-05
+22234100117,eee,Shanto Islam,2005-07-20,M,shanto.islam117@bubt.edu.bd,01690180577,2025-01-05
+22234100390,Textile,Nusrat Rahman,2002-10-11,Male,nusrat.rahman390@bubt.edu.bd,01568749047,2025-01-05
+22234100183,eee,Maliha Sultana,2002-09-08,M,maliha.sultana183@bubt.edu.bd,01316792127,2025-01-05
+22234100290,civil ,Sadia Ahmed,2004-09-03,male,sadia.ahmed290@bubt.edu.bd,+8801769735865,2025-01-05
+22234100086, CSE ,Shanto Sultana,2002-10-07,Male,shanto.sultana86@bubt.edu.bd,01965692629,2025-01-05
+22234100393,Textile,Riya Hasan,2004-01-05,Male,riya.hasan393@bubt.edu.bd,01927536261,2025-01-05
+22234100344,Textile,Farzana Hasan,2003-07-31,Female,farzana.hasan344@bubt.edu.bd,01686741644,2025-01-05
+22234100058, CSE ,Asif Chowdhury,2004-03-23,M,asif.chowdhury58@bubt.edu.bd,01794187049,2025-01-05
+22234100171,eee,Sabrina Uddin,2002-06-01,male,sabrina.uddin171@bubt.edu.bd,01621783073,2025-01-05
+22234100391,textile,Rakib Mia,2004-03-30,Female,rakib.mia391@bubt.edu.bd,01674188958,2025-01-05
+22234100371,Textile,Asif Khan,2005-09-08,M,asif.khan371@bubt.edu.bd,01373187139,2025-01-05
+22234100005,CSE,Zubair Ahmed,2005-08-03,male,zubair.ahmed5@bubt.edu.bd,01517507864,2025-01-05
+22234100315,textile,Tanvir Karim,2002-09-25,male,tanvir.karim315@bubt.edu.bd,01562741214,2025-01-05
+22234100249,Civil,Imran Sarker,2003-07-03,male,imran.sarker249@bubt.edu.bd,01830706693,2025-01-05
+22234100322,Textile,Tanvir Ahmed,2005-08-15,Male,tanvir.ahmed322@bubt.edu.bd,01954499873,2025-01-05
+22234100036,CSE,Rakib Hasan,2004-11-09,male,rakib.hasan36@bubt.edu.bd,01754446182,2025-01-05
+22234100376,TEXTILE,Tasnim Hasan,2002-04-29,M,,01538102825,2025-01-05
+22234100094, CSE ,Mehedi Begum,2003-09-06,F,mehedi.begum94@bubt.edu.bd,01917532195,2025-01-05
+22234100168,eee,Tahmina Khan,2004-01-12,male,tahmina.khan168@bubt.edu.bd,01730594121,2025-01-05
+22234100052,Cse,Farzana Chowdhury,2004-09-21,Female,,01599774697,2025-01-05
+22234100285,civil ,Riya Rahman,2002-07-10,F,riya.rahman285@bubt.edu.bd,01858079840,2025-01-05
+22234100186,EEE,Nusrat Akter,2004-10-10,Male,nusrat.akter186@bubt.edu.bd,01873161098,2025-01-05
+22234100008,Cse,Maliha Uddin,2002-07-06,M,maliha.uddin8@bubt.edu.bd,01494214382,2025-01-05
+22234100301,TEXTILE,Fahim Khan,2005-08-23,Male,fahim.khan301@bubt.edu.bd,01868718382,2025-01-05
+22234100330,textile,Zubair Begum,2004-01-05,Female,zubair.begum330@bubt.edu.bd,01857201978,2025-01-05
+22234100236,civil ,Ayesha Begum,2005-01-24,Male,ayesha.begum236@bubt.edu.bd,01796142207,2025-01-05
+22234100079,Cse,Riya Rahman,2004-11-28,Male,riya.rahman79@bubt.edu.bd,01488561612,2025-01-05
+22234100015,CSE,Arif Ahmed,2005-02-08,Male,arif.ahmed15@bubt.edu.bd,+8801394705205,2025-01-05
+22234100233,civil ,Tasnim Ahmed,2005-02-26,M,tasnim.ahmed233@bubt.edu.bd,01345000508,2025-01-05
+22234100124,eee,Asif Hasan,2005-02-14,male,,+8801845896226,2025-01-05
+22234100102,eee,Sumaiya Islam,2005-01-09,F,sumaiya.islam102@bubt.edu.bd,01746578001,2025-01-05
+22234100321,TEXTILE,Ayesha Ahmed,2005-07-14,Male,ayesha.ahmed321@bubt.edu.bd,01744738319,2025-01-05
+22234100362,textile,Lamia Islam,2004-08-29,Male,lamia.islam362@bubt.edu.bd,01444716747,2025-01-05
+22234100045,cse,Jannat Ahmed,2002-08-07,Male,jannat.ahmed45@bubt.edu.bd,01979519112,2025-01-05
+22234100357,textile,Imran Akter,2005-11-26,F,imran.akter357@bubt.edu.bd,01428036919,2025-01-05
+22234100145,eee,Tanvir Hasan,2002-02-07,Female,tanvir.hasan145@bubt.edu.bd,01455866538,2025-01-05
+22234100387,TEXTILE,Mehedi Rahman,2005-11-10,M,mehedi.rahman387@bubt.edu.bd,01311711195,2025-01-05
+22234100252,CIVIL,Jannat Rahman,2003-08-21,M,jannat.rahman252@bubt.edu.bd,01885099723,2025-01-05
+22234100356,TEXTILE,Nusrat Chowdhury,2003-11-10,male,nusrat.chowdhury356@bubt.edu.bd,01646048781,2025-01-05
+22234100270,civil ,Farzana Hasan,2004-09-29,Male,farzana.hasan270@bubt.edu.bd,01762162278,2025-01-05
+22234100074,Cse,Sakib Uddin,2005-11-12,Male,sakib.uddin74@bubt.edu.bd,01448668783,2025-01-05
+22234100121,eee,Ayesha Sultana,2005-02-24,Male,ayesha.sultana121@bubt.edu.bd,01599300492,2025-01-05
+22234100113,eee,Mehedi Hossain,2002-01-31,Male,mehedi.hossain113@bubt.edu.bd,+8801753455870,2025-01-05
+22234100123,E.E.E,Rakib Mia,2003-07-25,M,rakib.mia123@bubt.edu.bd,01985291541,2025-01-05
+22234100084,CSE,Fahim Rahman,2005-02-05,Female,fahim.rahman84@bubt.edu.bd,01925228493,2025-01-05
+22234100395,textile,Arif Hasan,2005-11-10,F,arif.hasan395@bubt.edu.bd,01843363439,2025-01-05
+22234100334,Textile,Riya Hossain,2003-11-21,male,riya.hossain334@bubt.edu.bd,01468635481,2025-01-05
+22234100155,EEE,Sadia Akter,2005-05-31,Female,sadia.akter155@bubt.edu.bd,01541895531,2025-01-05
+22234100247,Civil,Rafi Chowdhury,2005-05-24,F,rafi.chowdhury247@bubt.edu.bd,+8801653805532,2025-01-05
+22234100296,CIVIL,Shanto Sultana,2003-01-22,Female,shanto.sultana296@bubt.edu.bd,01342123815,2025-01-05
+22234100219,Civil,Jannat Chowdhury,2005-01-09,M,jannat.chowdhury219@bubt.edu.bd,01333954324,2025-01-05
+22234100220,civil ,Ayesha Begum,2003-04-02,F,ayesha.begum220@bubt.edu.bd,01572143331,2025-01-05
+22234100106,EEE,Tahmina Hossain,2005-07-25,Male,tahmina.hossain106@bubt.edu.bd,01597139443,2025-01-05
+22234100070,CSE,Nusrat Akter,2004-09-05,Female,nusrat.akter70@bubt.edu.bd,01619943140,2025-01-05
+22234100400,Textile,Shanto Hasan,2003-09-16,Male,shanto.hasan400@bubt.edu.bd,01871231190,2025-01-05
+22234100343,textile,Sakib Hasan,2002-11-18,M,sakib.hasan343@bubt.edu.bd,01464932613,2025-01-05
+22234100354,Textile,Riya Karim,2005-04-08,M,riya.karim354@bubt.edu.bd,01385522135,2025-01-05
+22234100364,TEXTILE,Tahmina Chowdhury,2004-11-17,Female,,01911194267,2025-01-05
+22234100021,cse,Farzana Sarker,2005-11-27,Female,farzana.sarker21@bubt.edu.bd,01798834863,2025-01-05
+22234100061,cse,Zubair Sultana,2005-01-07,Male,zubair.sultana61@bubt.edu.bd,01989520597,2025-01-05
+22234100004,cse,Mehedi Khan,2003-12-29,M,mehedi.khan4@bubt.edu.bd,+8801896977837,2025-01-05
+22234100142,eee,Nusrat Sarker,2005-07-16,male,nusrat.sarker142@bubt.edu.bd,01384888554,2025-01-05
+22234100051,Cse,Sadia Khan,2004-05-08,Female,sadia.khan51@bubt.edu.bd,01990967191,2025-01-05
+22234100049,Cse,Fahim Hossain,2005-11-22,F,fahim.hossain49@bubt.edu.bd,01664707061,2025-01-05
+22234100205,Civil,Jannat Sarker,2003-08-16,male,jannat.sarker205bubt.edu.bd,01790904160,2025-01-05
+22234100178,E.E.E,Tanvir Sultana,2005-08-05,M,tanvir.sultana178@bubt.edu.bd,01432978158,2025-01-05
+22234100037,CSE,Mehedi Karim,2002-08-11,F,mehedi.karim37@bubt.edu.bd,01952101056,2025-01-05
+22234100185,eee,Maliha Uddin,2002-02-17,Male,maliha.uddin185@bubt.edu.bd,01642310051,2025-01-05
+22234100229,civil ,Fahim Begum,2004-02-12,M,fahim.begum229@bubt.edu.bd,01919768947,2025-01-05
+22234100260,civil ,Jannat Hossain,2004-07-08,F,jannat.hossain260@bubt.edu.bd,01681721578,2025-01-05
+22234100088,Cse,Tasnim Mia,2003-01-22,Male,tasnim.mia88@bubt.edu.bd,01641348220,2025-01-05
+22234100265,Civil,Zubair Islam,2003-02-28,male,zubair.islam265@bubt.edu.bd,01368809636,2025-01-05
+22234100038,cse,Riya Ahmed,2003-06-06,male,riya.ahmed38@bubt.edu.bd,01782269803,2025-01-05
+22234100287,CIVIL,Nafis Sarker,2002-04-10,F,nafis.sarker287@bubt.edu.bd,+8801971684020,2025-01-05
+22234100195,E.E.E,Nusrat Karim,2002-02-08,F,nusrat.karim195@bubt.edu.bd,01637365878,2025-01-05
+22234100156,E.E.E,Sakib Hasan,2005-06-29,M,sakib.hasan156@bubt.edu.bd,01690092958,2025-01-05
+22234100225,CIVIL,Arif Chowdhury,2005-04-26,male,arif.chowdhury225@bubt.edu.bd,01867337891,2025-01-05
+22234100331,textile,Riya Ahmed,2004-10-05,Female,riya.ahmed331@bubt.edu.bd,+8801322114140,2025-01-05
+22234100206,CIVIL,Lamia Hasan,2005-01-17,Male,lamia.hasan206@bubt.edu.bd,01477674279,2025-01-05
+22234100006,Cse,Jannat Akter,2002-05-16,F,jannat.akter6@bubt.edu.bd,01852235350,2025-01-05
+22234100291,Civil,Rafi Mia,2002-05-26,male,rafi.mia291@bubt.edu.bd,01923747542,2025-01-05
+22234100303,TEXTILE,Rafi Rahman,2002-12-02,male,rafi.rahman303@bubt.edu.bd,01744795538,2025-01-05
+22234100385,TEXTILE,Asif Sultana,2002-10-08,Male,asif.sultana385@bubt.edu.bd,01792906016,2025-01-05
+22234100009, CSE ,Tanvir Chowdhury,2004-12-19,male,tanvir.chowdhury9@bubt.edu.bd,01325374874,2025-01-05
+22234100080,Cse,Nafis Khan,2004-04-16,male,nafis.khan80@bubt.edu.bd,01931585546,2025-01-05
+22234100329,textile,Zubair Rahman,2005-03-25,male,zubair.rahman329@bubt.edu.bd,01533315234,2025-01-05
+22234100162,EEE,Jannat Mia,2005-01-17,male,jannat.mia162@bubt.edu.bd,01835649468,2025-01-05
+22234100001,CSE,Farzana Islam,2002-07-29,F,farzana.islam1@bubt.edu.bd,01956164955,2025-01-05
+22234100335,textile,Mehedi Begum,2005-06-10,male,mehedi.begum335@bubt.edu.bd,01733535297,2025-01-05
+22234100016,Cse,Tasnim Hossain,2004-11-18,Female,tasnim.hossain16@bubt.edu.bd,01482374753,2025-01-05
+22234100087,Cse,Imran Begum,2005-09-13,F,imran.begum87@bubt.edu.bd,01775007200,2025-01-05
+22234100163,eee,Farzana Hossain,2004-03-30,F,farzana.hossain163@bubt.edu.bd,01655504725,2025-01-05
+22234100191,E.E.E,Tasnim Karim,2005-06-16,F,tasnim.karim191@bubt.edu.bd,01578090664,2025-01-05
+22234100333,Textile,Tasnim Rahman,2002-10-18,F,tasnim.rahman333@bubt.edu.bd,01958974686,2025-01-05
+22234100382,Textile,Maliha Islam,2002-09-10,M,maliha.islam382@bubt.edu.bd,01360357475,2025-01-05
+22234100208,civil ,Shanto Mia,2005-08-01,Male,shanto.mia208@bubt.edu.bd,+8801754013571,2025-01-05
+22234100267,CIVIL,Zubair Ahmed,2003-11-09,F,zubair.ahmed267@bubt.edu.bd,01464364546,2025-01-05
+22234100264,CIVIL,Sabrina Sultana,2002-11-05,Male,sabrina.sultana264@bubt.edu.bd,01349652241,2025-01-05
+22234100342,Textile,Zubair Hossain,2005-01-25,Male,zubair.hossain342@bubt.edu.bd,01589729429,2025-01-05
+22234100067, CSE ,Zubair Sultana,2003-01-28,Male,zubair.sultana67@bubt.edu.bd,01889133014,2025-01-05
+22234100232,civil ,Lamia Sultana,2005-08-21,F,lamia.sultana232@bubt.edu.bd,01776743428,2025-01-05
+22234100378,textile,Nusrat Sultana,2003-02-13,Male,nusrat.sultana378@bubt.edu.bd,01581274148,2025-01-05
+22234100065,Cse,Sadia Hossain,2003-05-14,M,sadia.hossain65@bubt.edu.bd,01684285882,2025-01-05
+22234100046,Cse,Lamia Islam,2004-08-09,M,lamia.islam46@bubt.edu.bd,01752587010,2025-01-05
+22234100369,textile,Shanto Chowdhury,2002-02-22,Male,shanto.chowdhury369@bubt.edu.bd,01566178935,2025-01-05
+22234100146,E.E.E,Arif Islam,2002-11-14,M,arif.islam146@bubt.edu.bd,01378140959,2025-01-05
+22234100023,cse,Maliha Islam,2003-01-16,M,maliha.islam23@bubt.edu.bd,01941568532,2025-01-05
+22234100010,cse,Rafi Akter,2004-06-09,M,rafi.akter10bubt.edu.bd,01845351479,2025-01-05
+22234100359,textile,Maliha Mia,2002-11-22,M,maliha.mia359@bubt.edu.bd,01628206610,2025-01-05
+22234100118,E.E.E,Shanto Chowdhury,2002-07-23,Female,shanto.chowdhury118@bubt.edu.bd,01897364555,2025-01-05
+22234100266,civil ,Tanvir Akter,2002-04-02,Female,tanvir.akter266@bubt.edu.bd,01956047142,2025-01-05
+22234100238,CIVIL,Rakib Rahman,2005-06-19,M,rakib.rahman238@bubt.edu.bd,01698487646,2025-01-05
+22234100223,Civil,Arif Begum,2005-01-10,Female,arif.begum223@bubt.edu.bd,01328808678,2025-01-05
+22234100374,TEXTILE,Rafi Mia,2005-10-26,male,rafi.mia374@bubt.edu.bd,01330237141,2025-01-05
+22234100157,EEE,Riya Ahmed,2002-01-04,M,riya.ahmed157@bubt.edu.bd,01635140847,2025-01-05
+22234100283,Civil,Ayesha Begum,2005-10-16,F,ayesha.begum283@bubt.edu.bd,01846066605,2025-01-05
+22234100027,CSE,Fahim Begum,2005-09-01,Female,fahim.begum27@bubt.edu.bd,01750181935,2025-01-05
+22234100109,E.E.E,Sabrina Khan,2003-04-29,male,sabrina.khan109@bubt.edu.bd,01859302863,2025-01-05
+22234100339,Textile,Rakib Akter,2002-04-09,male,rakib.akter339@bubt.edu.bd,01465568711,2025-01-05
+22234100351,textile,Rafi Sarker,2002-12-09,F,rafi.sarker351@bubt.edu.bd,01415727862,2025-01-05
+22234100286,CIVIL,Sumaiya Chowdhury,2003-03-10,M,sumaiya.chowdhury286@bubt.edu.bd,01555332729,2025-01-05
+22234100245,civil ,Tasnim Rahman,2005-12-30,F,tasnim.rahman245@bubt.edu.bd,01531803703,2025-01-05
+22234100295,CIVIL,Arif Sultana,2003-08-07,M,arif.sultana295@bubt.edu.bd,01998369672,2025-01-05
+22234100209,Civil,Mehedi Islam,2002-01-14,M,mehedi.islam209@bubt.edu.bd,01945835371,2025-01-05
+22234100043,cse,Asif Hasan,2003-04-27,F,asif.hasan43@bubt.edu.bd,+8801429777514,2025-01-05
+22234100277,Civil,Maliha Hossain,2005-01-17,M,maliha.hossain277@bubt.edu.bd,01915584869,2025-01-05
+22234100022,Cse,Imran Ahmed,2002-04-30,M,imran.ahmed22@bubt.edu.bd,+8801852091325,2025-01-05
+22234100169,EEE,Lamia Sarker,2004-01-22,F,lamia.sarker169@bubt.edu.bd,+8801425226815,2025-01-05
+22234100179,EEE,Tasnim Mia,2002-02-28,M,tasnim.mia179@bubt.edu.bd,01987412924,2025-01-05
+22234100187,E.E.E,Sakib Islam,2004-04-05,male,sakib.islam187@bubt.edu.bd,01785405783,2025-01-05
+22234100234,Civil,Zubair Chowdhury,2003-08-28,M,zubair.chowdhury234@bubt.edu.bd,01686475853,2025-01-05
+22234100012,cse,Tasnim Uddin,2002-02-09,M,tasnim.uddin12@bubt.edu.bd,01951273847,2025-01-05
+22234100125,EEE,Tasnim Khan,2005-03-05,M,tasnim.khan125@bubt.edu.bd,01894982908,2025-01-05
+22234100187,E.E.E,Sakib Islam,2004-04-05,male,sakib.islam187@bubt.edu.bd,01785405783,2025-01-05
+22234100388,textile,Asif Uddin,2002-11-02,Female,asif.uddin388@bubt.edu.bd,01323594977,2025-01-05
+22234100132,E.E.E,Sabrina Hasan,2004-05-05,F,sabrina.hasan132@bubt.edu.bd,01533068427,2025-01-05
+22234100373,TEXTILE,Farzana Karim,2004-08-21,M,farzana.karim373@bubt.edu.bd,+8801793302863,2025-01-05
+22234100133,E.E.E,Sabrina Khan,2003-05-14,male,sabrina.khan133@bubt.edu.bd,01363118906,2025-01-05
+22234100271,CIVIL,Rakib Khan,2005-10-11,male,rakib.khan271@bubt.edu.bd,+8801789211057,2025-01-05
+22234100073,cse,Zubair Hossain,2003-03-09,Male,zubair.hossain73@bubt.edu.bd,01433328859,2025-01-05
+22234100139,eee,Shanto Sultana,2002-03-26,M,shanto.sultana139@bubt.edu.bd,01835265073,2025-01-05
+22234100347,Textile,Jannat Islam,2003-01-18,M,jannat.islam347@bubt.edu.bd,01645353058,2025-01-05
+22234100099, CSE ,Asif Chowdhury,2005-11-05,Female,asif.chowdhury99@bubt.edu.bd,01776669607,2025-01-05
+22234100190,E.E.E,Nusrat Rahman,2002-10-08,Female,nusrat.rahman190@bubt.edu.bd,01771335966,2025-01-05
+22234100380,TEXTILE,Imran Akter,2004-07-22,male,imran.akter380@bubt.edu.bd,01568205561,2025-01-05
+22234100237,civil ,Tanvir Mia,2004-04-24,F,tanvir.mia237@bubt.edu.bd,+8801330270856,2025-01-05
+22234100318,Textile,Mehedi Sarker,2005-11-06,Female,mehedi.sarker318@bubt.edu.bd,01715412975,2025-01-05
+22234100239,CIVIL,Fahim Chowdhury,2003-07-17,Male,fahim.chowdhury239@bubt.edu.bd,01767790557,2025-01-05
+22234100063,cse,Mehedi Uddin,2003-11-29,Male,mehedi.uddin63@bubt.edu.bd,+8801584597009,2025-01-05
+22234100160,eee,Ayesha Rahman,2003-12-23,Female,ayesha.rahman160@bubt.edu.bd,01472360629,2025-01-05
+22234100327,Textile,Jannat Akter,2003-03-25,M,,+8801947706144,2025-01-05
+22234100346,textile,Tanvir Uddin,2002-08-25,M,tanvir.uddin346@bubt.edu.bd,01698723294,2025-01-05
+22234100257,civil ,Imran Begum,2005-03-25,Female,imran.begum257@bubt.edu.bd,01562738860,2025-01-05
+22234100282,CIVIL,Ayesha Sarker,2004-04-22,Female,ayesha.sarker282@bubt.edu.bd,01998032908,2025-01-05
+22234100317,TEXTILE,Lamia Uddin,2004-01-04,Male,lamia.uddin317@bubt.edu.bd,01572189327,2025-01-05
+22234100172,E.E.E,Sabrina Hossain,2005-01-31,Female,sabrina.hossain172@bubt.edu.bd,01931139996,2025-01-05
+22234100030,Cse,Sadia Khan,2002-09-25,M,sadia.khan30@bubt.edu.bd,01869302158,2025-01-05
+22234100363,TEXTILE,Imran Rahman,2005-03-17,male,imran.rahman363@bubt.edu.bd,01496889858,2025-01-05
+22234100167,EEE,Rakib Sultana,2002-03-05,Female,rakib.sultana167@bubt.edu.bd,+8801968810561,2025-01-05
+22234100144,EEE,Ayesha Karim,2005-12-22,M,ayesha.karim144@bubt.edu.bd,01696368203,2025-01-05
+22234100280,civil ,Tahmina Chowdhury,2002-12-06,male,tahmina.chowdhury280@bubt.edu.bd,01937775381,2025-01-05
+22234100136,E.E.E,Mehedi Sarker,2005-07-10,M,mehedi.sarker136@bubt.edu.bd,01987774890,2025-01-05
+22234100159,E.E.E,Tahmina Chowdhury,2002-02-03,male,tahmina.chowdhury159@bubt.edu.bd,01498195059,2025-01-05
+22234100193,E.E.E,Zubair Mia,2004-08-29,Male,zubair.mia193@bubt.edu.bd,01987641510,2025-01-05
+22234100377,Textile,Mehedi Uddin,2002-09-23,Male,mehedi.uddin377@bubt.edu.bd,01667582820,2025-01-05
+22234100076, CSE ,Farzana Mia,2002-10-19,F,farzana.mia76@bubt.edu.bd,01589865458,2025-01-05
+22234100093,CSE,Nusrat Karim,2003-08-12,F,nusrat.karim93@bubt.edu.bd,01623212812,2025-01-05
+22234100307,Textile,Jannat Islam,2002-03-14,Female,jannat.islam307@bubt.edu.bd,01898007006,2025-01-05
+22234100244,CIVIL,Nafis Akter,2002-04-06,Female,nafis.akter244@bubt.edu.bd,01582884346,2025-01-05
+22234100279,civil ,Farzana Khan,2002-08-29,M,farzana.khan279@bubt.edu.bd,01988909809,2025-01-05
+22234100379,TEXTILE,Tahmina Begum,2003-12-07,Male,tahmina.begum379@bubt.edu.bd,01789010042,2025-01-05
+22234100218,Civil,Ayesha Sarker,2005-08-06,F,ayesha.sarker218@bubt.edu.bd,01660259293,2025-01-05
+22234100090,Cse,Ayesha Sultana,2005-04-23,Male,ayesha.sultana90@bubt.edu.bd,+8801969096899,2025-01-05
+22234100375,textile,Sakib Karim,2002-10-21,Female,sakib.karim375@bubt.edu.bd,01920846331,2025-01-05
+22234100269,Civil,Farzana Sarker,2005-03-28,Male,farzana.sarker269@bubt.edu.bd,01459095909,2025-01-05
+22234100138,EEE,Tanvir Akter,2004-08-03,M,tanvir.akter138@bubt.edu.bd,+8801948530827,2025-01-05
+22234100140,EEE,Ayesha Rahman,2004-07-11,Male,ayesha.rahman140@bubt.edu.bd,01521318464,2025-01-05
+22234100107,E.E.E,Nusrat Akter,2003-04-26,M,nusrat.akter107@bubt.edu.bd,01659796322,2025-01-05
+22234100041,Cse,Riya Akter,2003-09-15,F,riya.akter41@bubt.edu.bd,01791424737,2025-01-05
+22234100130,E.E.E,Rafi Rahman,2004-10-15,M,rafi.rahman130@bubt.edu.bd,01681481992,2025-01-05
+22234100383,Textile,Shanto Rahman,2002-08-10,Male,shanto.rahman383bubt.edu.bd,01825541047,2025-01-05
+22234100018,cse,Jannat Begum,2003-11-26,F,jannat.begum18@bubt.edu.bd,01435529407,2025-01-05
+22234100134,eee,Arif Khan,2002-12-11,male,arif.khan134@bubt.edu.bd,01778444607,2025-01-05
+22234100048, CSE ,Maliha Uddin,2005-07-07,male,maliha.uddin48@bubt.edu.bd,01848349783,2025-01-05
+22234100057, CSE ,Rakib Islam,2002-08-23,M,rakib.islam57@bubt.edu.bd,01524508768,2025-01-05
+22234100135,E.E.E,Zubair Mia,2002-07-30,Male,zubair.mia135@bubt.edu.bd,01730517835,2025-01-05
+22234100082,CSE,Lamia Chowdhury,2002-04-22,Female,lamia.chowdhury82@bubt.edu.bd,01976906611,2025-01-05
+22234100242,CIVIL,Tanvir Chowdhury,2004-02-16,F,tanvir.chowdhury242@bubt.edu.bd,01811268380,2025-01-05
+22234100201,CIVIL,Sumaiya Ahmed,2005-02-25,M,sumaiya.ahmed201@bubt.edu.bd,01788763056,2025-01-05
+22234100019,CSE,Mehedi Akter,2002-06-04,Male,mehedi.akter19@bubt.edu.bd,+8801723141087,2025-01-05
+22234100318,Textile,Mehedi Sarker,2005-11-06,Female,mehedi.sarker318@bubt.edu.bd,01715412975,2025-01-05
+22234100340,TEXTILE,Fahim Chowdhury,2002-07-27,Female,fahim.chowdhury340@bubt.edu.bd,01797371655,2025-01-05
+22234100332,Textile,Sadia Sultana,2004-09-05,Female,,01737040091,2025-01-05
+22234100203,CIVIL,Fahim Islam,2004-09-01,Male,fahim.islam203@bubt.edu.bd,01553106399,2025-01-05
+22234100126,E.E.E,Sumaiya Chowdhury,2004-05-09,M,sumaiya.chowdhury126@bubt.edu.bd,01553537934,2025-01-05
+22234100078,CSE,Shanto Akter,2002-02-22,male,shanto.akter78@bubt.edu.bd,01987201917,2025-01-05
+22234100170,E.E.E,Maliha Chowdhury,2005-02-24,male,maliha.chowdhury170@bubt.edu.bd,01869897763,2025-01-05
+22234100216,CIVIL,Riya Rahman,2005-02-18,Female,riya.rahman216@bubt.edu.bd,01812921981,2025-01-05
+22234100158,eee,Rakib Hossain,2004-12-13,Male,rakib.hossain158@bubt.edu.bd,+8801784377016,2025-01-05
+22234100273,Civil,Riya Chowdhury,2005-01-05,Female,riya.chowdhury273@bubt.edu.bd,01484479105,2025-01-05
+22234100275,CIVIL,Maliha Hasan,2004-05-01,male,maliha.hasan275@bubt.edu.bd,01421095863,2025-01-05
+22234100014,Cse,Fahim Sarker,2005-11-13,Male,fahim.sarker14@bubt.edu.bd,01897225156,2025-01-05
+22234100153,EEE,Nusrat Chowdhury,2002-06-17,Female,nusrat.chowdhury153@bubt.edu.bd,01397236246,2025-01-05
+22234100294,civil ,Rafi Karim,2004-02-26,Male,rafi.karim294@bubt.edu.bd,01928767690,2025-01-05
+22234100241,civil ,Rakib Chowdhury,2005-11-28,Male,rakib.chowdhury241@bubt.edu.bd,01920820219,2025-01-05
+22234100255,Civil,Lamia Hossain,2004-03-21,M,lamia.hossain255@bubt.edu.bd,01954230340,2025-01-05
+22234100040,cse,Jannat Begum,2003-08-29,M,jannat.begum40@bubt.edu.bd,01860888017,2025-01-05
+22234100240,Civil,Rafi Sultana,2002-11-01,Male,rafi.sultana240@bubt.edu.bd,01557572279,2025-01-05
+22234100393,Textile,Riya Hasan,2004-01-05,Male,riya.hasan393@bubt.edu.bd,01927536261,2025-01-05
+22234100120,E.E.E,Ayesha Hasan,2004-08-29,male,ayesha.hasan120@bubt.edu.bd,+8801367965485,2025-01-05
+22234100396,textile,Ayesha Mia,2005-02-17,F,ayesha.mia396@bubt.edu.bd,01396355513,2025-01-05
+22234100308,TEXTILE,Sakib Begum,2003-10-18,Female,sakib.begum308@bubt.edu.bd,01526025721,2025-01-05
+22234100352,textile,Sumaiya Mia,2005-07-08,F,sumaiya.mia352@bubt.edu.bd,+8801518994192,2025-01-05
+22234100305,textile,Nafis Uddin,2005-03-06,Male,nafis.uddin305@bubt.edu.bd,01923811663,2025-01-05
+22234100170,E.E.E,Maliha Chowdhury,2005-02-24,male,maliha.chowdhury170@bubt.edu.bd,01869897763,2025-01-05
+22234100042, CSE ,Lamia Hasan,2003-03-14,M,lamia.hasan42@bubt.edu.bd,01932775593,2025-01-05
+22234100034,Cse,Asif Mia,2003-05-24,Female,asif.mia34@bubt.edu.bd,01361343880,2025-01-05
+22234100319,Textile,Tanvir Begum,2004-11-17,F,tanvir.begum319@bubt.edu.bd,+8801933336132,2025-01-05
+22234100143,E.E.E,Zubair Mia,2002-11-04,F,zubair.mia143@bubt.edu.bd,01456952151,2025-01-05
+22234100394,textile,Sakib Uddin,2002-04-05,M,sakib.uddin394@bubt.edu.bd,01380439867,2025-01-05
+22234100110,EEE,Nusrat Chowdhury,2003-07-20,M,nusrat.chowdhury110@bubt.edu.bd,+8801971031132,2025-01-05
+22234100011,CSE,Rafi Mia,2004-11-05,M,rafi.mia11@bubt.edu.bd,01931682744,2025-01-05
+22234100194,E.E.E,Riya Uddin,2002-12-16,Female,riya.uddin194@bubt.edu.bd,01961028283,2025-01-05
+22234100384,Textile,Fahim Akter,2004-08-29,Male,fahim.akter384@bubt.edu.bd,+8801894598956,2025-01-05
+22234100353,TEXTILE,Fahim Khan,2002-01-26,Female,fahim.khan353@bubt.edu.bd,01766316931,2025-01-05
+22234100096,Cse,Riya Islam,2003-04-21,male,riya.islam96@bubt.edu.bd,+8801599501846,2025-01-05
+22234100039,Cse,Sakib Hossain,2005-06-30,male,sakib.hossain39@bubt.edu.bd,01850308572,2025-01-05
+22234100355,textile,Rakib Chowdhury,2005-03-17,F,rakib.chowdhury355@bubt.edu.bd,01564086249,2025-01-05
+22234100230,civil ,Sumaiya Uddin,2003-03-04,Male,sumaiya.uddin230@bubt.edu.bd,01338428357,2025-01-05
+22234100349,Textile,Fahim Rahman,2004-05-07,male,fahim.rahman349@bubt.edu.bd,01686868410,2025-01-05
+22234100100,cse,Shanto Sarker,2003-12-23,Male,shanto.sarker100@bubt.edu.bd,01598473848,2025-01-05
+22234100386,Textile,Nafis Ahmed,2005-06-01,male,nafis.ahmed386@bubt.edu.bd,01737068117,2025-01-05
+22234100189,E.E.E,Rafi Chowdhury,2005-02-16,Male,rafi.chowdhury189@bubt.edu.bd,01490861208,2025-01-05
+22234100116,EEE,Nusrat Uddin,2004-04-02,male,nusrat.uddin116@bubt.edu.bd,+8801869533928,2025-01-05
+22234100227,Civil,Fahim Uddin,2005-12-20,M,fahim.uddin227@bubt.edu.bd,01385482164,2025-01-05
+22234100104,E.E.E,Tanvir Sarker,2004-03-19,male,,01726587799,2025-01-05
+22234100292,civil ,Ayesha Chowdhury,2002-09-30,Female,ayesha.chowdhury292@bubt.edu.bd,01381203615,2025-01-05
+22234100304,textile,Zubair Hossain,2002-03-02,Male,zubair.hossain304@bubt.edu.bd,01718572753,2025-01-05
+22234100298,CIVIL,Rakib Sultana,2005-10-30,Male,rakib.sultana298@bubt.edu.bd,+8801919796799,2025-01-05
+22234100328,Textile,Rakib Sarker,2005-04-11,M,rakib.sarker328@bubt.edu.bd,01343266810,2025-01-05
+22234100348,textile,Nusrat Islam,2005-11-27,Female,nusrat.islam348@bubt.edu.bd,01582672055,2025-01-05
+22234100350,textile,Tanvir Chowdhury,2002-03-13,Female,tanvir.chowdhury350@bubt.edu.bd,01986703472,2025-01-05
+22234100358,Textile,Tasnim Akter,2004-05-03,F,tasnim.akter358@bubt.edu.bd,01638372352,2025-01-05
+22234100361,Textile,Sabrina Ahmed,2004-10-31,M,sabrina.ahmed361@bubt.edu.bd,01814102122,2025-01-05
+22234100148,E.E.E,Nusrat Chowdhury,2004-01-17,F,nusrat.chowdhury148@bubt.edu.bd,01691952730,2025-01-05
+22234100262,Civil,Tahmina Karim,2002-04-01,F,tahmina.karim262@bubt.edu.bd,01863635785,2025-01-05
+22234100122,EEE,Imran Karim,2003-10-02,Male,imran.karim122@bubt.edu.bd,01430767532,2025-01-05
+22234100200,E.E.E,Ayesha Akter,2002-03-28,F,ayesha.akter200@bubt.edu.bd,01569374716,2025-01-05
+22234100115,E.E.E,Rafi Uddin,2002-03-30,Male,rafi.uddin115@bubt.edu.bd,01879987997,2025-01-05
+22234100053,Cse,Lamia Islam,2004-03-17,Female,lamia.islam53@bubt.edu.bd,01396268397,2025-01-05
+22234100336,textile,Ayesha Islam,2002-01-04,male,ayesha.islam336@bubt.edu.bd,+8801686166246,2025-01-05
+22234100184,EEE,Sakib Ahmed,2002-11-24,F,sakib.ahmed184@bubt.edu.bd,01851971886,2025-01-05
+22234100017,CSE,Nafis Sarker,2005-09-11,Male,nafis.sarker17@bubt.edu.bd,01617270733,2025-01-05
+22234100316,TEXTILE,Tasnim Uddin,2003-07-11,Female,tasnim.uddin316@bubt.edu.bd,01488478184,2025-01-05
+22234100105,E.E.E,Riya Chowdhury,2002-08-10,Female,riya.chowdhury105@bubt.edu.bd,01785350823,2025-01-05
+22234100152,EEE,Lamia Sultana,2002-10-29,F,lamia.sultana152@bubt.edu.bd,01470549373,2025-01-05
+22234100032,Cse,Imran Khan,2002-03-23,M,imran.khan32@bubt.edu.bd,01499514287,2025-01-05
+22234100310,Textile,Sadia Khan,2003-02-15,M,sadia.khan310@bubt.edu.bd,01893579731,2025-01-05
+22234100129,eee,Nusrat Ahmed,2002-01-16,male,nusrat.ahmed129@bubt.edu.bd,01928419343,2025-01-05
+22234100306,Textile,Arif Begum,2004-11-08,male,,01911649277,2025-01-05
+22234100083,cse,Farzana Sultana,2005-12-01,male,farzana.sultana83@bubt.edu.bd,01891721371,2025-01-05
+22234100137,eee,Tasnim Mia,2004-06-19,M,tasnim.mia137@bubt.edu.bd,01546866075,2025-01-05
+22234100326,textile,Jannat Sarker,2005-12-31,male,jannat.sarker326@bubt.edu.bd,01656175477,2025-01-05
+22234100029, CSE ,Asif Hasan,2003-05-30,Male,asif.hasan29@bubt.edu.bd,01395132217,2025-01-05
+22234100028, CSE ,Farzana Hossain,2002-08-08,Female,farzana.hossain28@bubt.edu.bd,01591178885,2025-01-05
+22234100075,cse,Asif Ahmed,2005-07-04,Female,asif.ahmed75@bubt.edu.bd,01467061186,2025-01-05
+22234100196,eee,Zubair Begum,2002-05-08,M,zubair.begum196@bubt.edu.bd,01753627409,2025-01-05
+22234100013,Cse,Tanvir Hossain,2004-12-26,Female,tanvir.hossain13@bubt.edu.bd,01683793389,2025-01-05
+22234100337,TEXTILE,Shanto Ahmed,2004-10-13,Male,shanto.ahmed337@bubt.edu.bd,01456548066,2025-01-05
+22234100115,E.E.E,Rafi Uddin,2002-03-30,Male,rafi.uddin115@bubt.edu.bd,01879987997,2025-01-05
+22234100007,cse,Tahmina Uddin,2005-02-23,Female,tahmina.uddin7@bubt.edu.bd,01688320463,2025-01-05
+22234100217,Civil,Riya Hossain,2002-05-11,Female,riya.hossain217@bubt.edu.bd,+8801373360324,2025-01-05
+22234100147,EEE,Nusrat Hasan,2002-09-26,F,nusrat.hasan147@bubt.edu.bd,01493851247,2025-01-05
+22234100274,Civil,Mehedi Khan,2004-07-12,M,mehedi.khan274@bubt.edu.bd,01375043108,2025-01-05
+22234100214,civil ,Rafi Rahman,2005-01-26,F,rafi.rahman214@bubt.edu.bd,01730112846,2025-01-05
+22234100293,CIVIL,Lamia Khan,2002-11-07,Female,lamia.khan293@bubt.edu.bd,+8801639158087,2025-01-05
+22234100299,Civil,Farzana Ahmed,2004-03-26,Male,farzana.ahmed299@bubt.edu.bd,01765758338,2025-01-05
+22234100246,Civil,Asif Sultana,2003-11-11,Male,asif.sultana246@bubt.edu.bd,01920526386,2025-01-05
+22234100288,Civil,Lamia Rahman,2004-05-26,Male,lamia.rahman288@bubt.edu.bd,01497241147,2025-01-05
+22234100181,EEE,Arif Sarker,2004-07-17,male,arif.sarker181@bubt.edu.bd,01665783806,2025-01-05
+22234100060,Cse,Nafis Hossain,2004-06-06,Female,nafis.hossain60@bubt.edu.bd,01971705170,2025-01-05
+22234100166,E.E.E,Nusrat Begum,2003-12-24,F,nusrat.begum166@bubt.edu.bd,+8801817698469,2025-01-05
+22234100278,CIVIL,Sumaiya Chowdhury,2002-07-29,F,sumaiya.chowdhury278@bubt.edu.bd,01449957816,2025-01-05
+22234100258,CIVIL,Riya Sultana,2003-01-04,F,riya.sultana258@bubt.edu.bd,01871957885,2025-01-05
+22234100092,Cse,Tasnim Mia,2005-10-13,M,tasnim.mia92@bubt.edu.bd,01594127561,2025-01-05
+22234100068,CSE,Sumaiya Akter,2003-04-11,Male,sumaiya.akter68@bubt.edu.bd,01881690398,2025-01-05
+22234100177,E.E.E,Rakib Sultana,2003-05-29,M,rakib.sultana177@bubt.edu.bd,01526800072,2025-01-05
+22234100149,eee,Arif Sultana,2004-08-18,male,arif.sultana149@bubt.edu.bd,01886560394,2025-01-05
+22234100320,TEXTILE,Fahim Begum,2005-01-31,Female,fahim.begum320@bubt.edu.bd,01928762704,2025-01-05
+22234100108,eee,Sakib Karim,2002-11-13,Male,sakib.karim108@bubt.edu.bd,01975679047,2025-01-05
+22234100103,E.E.E,Imran Begum,2004-08-17,male,imran.begum103@bubt.edu.bd,01463339667,2025-01-05
+22234100112,E.E.E,Tasnim Sarker,2002-10-30,male,tasnim.sarker112@bubt.edu.bd,01529419691,2025-01-05
+22234100324,Textile,Farzana Akter,2004-07-02,F,farzana.akter324@bubt.edu.bd,01792809273,2025-01-05
+22234100399,TEXTILE,Tasnim Hossain,2002-02-06,M,tasnim.hossain399@bubt.edu.bd,+8801783698792,2025-01-05
+22234100161,eee,Ayesha Hossain,2002-03-17,M,ayesha.hossain161@bubt.edu.bd,01415624520,2025-01-05
+22234100233,civil ,Tasnim Ahmed,2005-02-26,M,tasnim.ahmed233@bubt.edu.bd,01345000508,2025-01-05
+22234100154,EEE,Nusrat Akter,2004-08-25,Male,nusrat.akter154@bubt.edu.bd,01872962895,2025-01-05
+22234100263,Civil,Rafi Rahman,2004-11-28,M,rafi.rahman263@bubt.edu.bd,01469831384,2025-01-05
+22234100309,textile,Arif Sarker,2004-04-01,F,arif.sarker309@bubt.edu.bd,01551701149,2025-01-05
+22234100212,Civil,Ayesha Uddin,2002-11-10,M,ayesha.uddin212@bubt.edu.bd,01565813853,2025-01-05
+22234100071,cse,Ayesha Sarker,2003-05-24,M,ayesha.sarker71@bubt.edu.bd,01790010790,2025-01-05
+22234100365,Textile,Shanto Sarker,2003-09-18,F,shanto.sarker365@bubt.edu.bd,01566882385,2025-01-05
+22234100232,civil ,Lamia Sultana,2005-08-21,F,lamia.sultana232@bubt.edu.bd,01776743428,2025-01-05
+22234100151,EEE,Tahmina Uddin,2002-07-30,male,tahmina.uddin151@bubt.edu.bd,+8801348260510,2025-01-05
+22234100176,E.E.E,Sakib Sultana,2002-04-24,Female,sakib.sultana176@bubt.edu.bd,01532099899,2025-01-05
+22234100204,CIVIL,Tahmina Karim,2003-04-21,Male,tahmina.karim204@bubt.edu.bd,01333496796,2025-01-05
+22234100141,eee,Arif Begum,2004-12-06,M,arif.begum141@bubt.edu.bd,01561998170,2025-01-05
+22234100128,E.E.E,Farzana Ahmed,2004-11-15,male,farzana.ahmed128@bubt.edu.bd,01589609131,2025-01-05
+22234100312,textile,Tahmina Mia,2005-11-21,male,tahmina.mia312@bubt.edu.bd,01398221829,2025-01-05
+22234100215,Civil,Rafi Hasan,2002-07-06,F,rafi.hasan215@bubt.edu.bd,01370858653,2025-01-05
+22234100197,eee,Jannat Khan,2004-12-27,M,jannat.khan197@bubt.edu.bd,01996343485,2025-01-05
+22234100366,TEXTILE,Farzana Ahmed,2004-08-13,M,farzana.ahmed366@bubt.edu.bd,01763304911,2025-01-05
+22234100165,eee,Imran Khan,2003-08-29,F,imran.khan165@bubt.edu.bd,01632366682,2025-01-05
+22234100311,textile,Nafis Sarker,2005-01-24,male,nafis.sarker311@bubt.edu.bd,+8801365034115,2025-01-05
+22234100308,TEXTILE,Sakib Begum,2003-10-18,Female,sakib.begum308@bubt.edu.bd,01526025721,2025-01-05
+22234100337,TEXTILE,Shanto Ahmed,2004-10-13,Male,shanto.ahmed337@bubt.edu.bd,01456548066,2025-01-05
+22234100199,eee,Tasnim Uddin,2003-07-15,male,tasnim.uddin199@bubt.edu.bd,01760961690,2025-01-05
+22234100054,Cse,Nusrat Akter,2004-02-16,male,nusrat.akter54@bubt.edu.bd,01560885459,2025-01-05
+22234100066, CSE ,Tasnim Khan,2005-12-10,Male,tasnim.khan66@bubt.edu.bd,01426194158,2025-01-05
+22234100089,Cse,Tasnim Begum,2004-02-20,Male,tasnim.begum89@bubt.edu.bd,01997512508,2025-01-05
+22234100297,civil ,Nafis Hasan,2002-01-25,F,nafis.hasan297@bubt.edu.bd,01461920550,2025-01-05
+22234100091,Cse,Zubair Islam,2002-11-13,Male,zubair.islam91@bubt.edu.bd,01555440919,2025-01-05
+22234100261,Civil,Fahim Rahman,2005-01-04,Female,fahim.rahman261@bubt.edu.bd,01343316996,2025-01-05
+22234100248,CIVIL,Nafis Ahmed,2003-12-30,M,nafis.ahmed248@bubt.edu.bd,01488634827,2025-01-05
+22234100300,CIVIL,Tahmina Sultana,2005-01-06,Female,tahmina.sultana300@bubt.edu.bd,01520606094,2025-01-05
+22234100222,civil ,Shanto Sarker,2002-02-02,Male,shanto.sarker222@bubt.edu.bd,01714506531,2025-01-05
+22234100284,Civil,Tanvir Hasan,2002-07-10,male,tanvir.hasan284@bubt.edu.bd,01859535894,2025-01-05
+22234100025,CSE,Asif Begum,2002-09-26,Male,asif.begum25@bubt.edu.bd,+8801519736572,2025-01-05
+22234100272,civil ,Rafi Ahmed,2003-09-18,Female,rafi.ahmed272@bubt.edu.bd,01478561753,2025-01-05
+22234100003,Cse,Sumaiya Begum,2003-08-16,male,sumaiya.begum3@bubt.edu.bd,01923556182,2025-01-05
+22234100256,Civil,Ayesha Akter,2003-10-19,male,ayesha.akter256@bubt.edu.bd,01652168966,2025-01-05
+22234100069, CSE ,Fahim Akter,2004-10-02,Female,fahim.akter69bubt.edu.bd,01573001391,2025-01-05
+22234100259,CIVIL,Imran Mia,2004-04-17,F,imran.mia259@bubt.edu.bd,01542483531,2025-01-05
+22234100372,Textile,Mehedi Hasan,2003-11-19,male,mehedi.hasan372@bubt.edu.bd,01451216287,2025-01-05
+22234100367,Textile,Asif Mia,2005-05-01,male,asif.mia367@bubt.edu.bd,+8801374657836,2025-01-05
+22234100392,textile,Rafi Islam,2005-11-26,F,rafi.islam392@bubt.edu.bd,01931393688,2025-01-05
+22234100231,Civil,Zubair Sarker,2005-05-22,F,zubair.sarker231@bubt.edu.bd,01484098828,2025-01-05
+22234100064,Cse,Arif Begum,2004-04-12,F,arif.begum64@bubt.edu.bd,01873900135,2025-01-05
+22234100302,textile,Arif Hossain,2004-06-08,Female,arif.hossain302@bubt.edu.bd,01351512209,2025-01-05
+22234100345,textile,Nusrat Khan,2005-09-17,male,nusrat.khan345@bubt.edu.bd,01313454186,2025-01-05
+22234100287,CIVIL,Nafis Sarker,2002-04-10,F,nafis.sarker287@bubt.edu.bd,+8801971684020,2025-01-05
+22234100397,textile,Nafis Mia,2003-10-19,F,nafis.mia397@bubt.edu.bd,01378038903,2025-01-05
+22234100213,CIVIL,Asif Mia,2005-05-05,M,asif.mia213@bubt.edu.bd,01680890196,2025-01-05
+22234100056,Cse,Sadia Karim,2002-11-09,male,sadia.karim56@bubt.edu.bd,01385694715,2025-01-05
+22234100174,eee,Ayesha Karim,2002-06-26,M,ayesha.karim174@bubt.edu.bd,01874245343,2025-01-05
+22234100367,Textile,Asif Mia,2005-05-01,male,asif.mia367@bubt.edu.bd,+8801374657836,2025-01-05
+22234100098, CSE ,Jannat Mia,2004-09-16,Male,jannat.mia98@bubt.edu.bd,01587149951,2025-01-05
+22234100235,Civil,Tahmina Hasan,2004-09-27,Female,tahmina.hasan235@bubt.edu.bd,01671851421,2025-01-05
+22234100111,EEE,Sadia Rahman,2002-09-15,Female,sadia.rahman111@bubt.edu.bd,01984384510,2025-01-05
+22234100202,CIVIL,Arif Hasan,2003-04-22,Male,arif.hasan202@bubt.edu.bd,01873404979,2025-01-05
+22234100062,Cse,Farzana Uddin,2003-05-15,male,farzana.uddin62@bubt.edu.bd,01860867083,2025-01-05
+22234100097, CSE ,Asif Sultana,2003-12-09,Female,asif.sultana97@bubt.edu.bd,01643567615,2025-01-05
+22234100101,eee,Tahmina Hasan,2002-03-10,Female,tahmina.hasan101@bubt.edu.bd,01349609054,2025-01-05
+22234100313,TEXTILE,Rafi Ahmed,2004-10-04,M,rafi.ahmed313@bubt.edu.bd,+8801447557512,2025-01-05
+22234100131,E.E.E,Asif Sarker,2002-03-28,F,asif.sarker131@bubt.edu.bd,01352018286,2025-01-05
+22234100398,Textile,Jannat Mia,2003-04-27,F,jannat.mia398@bubt.edu.bd,+8801770142774,2025-01-05
+22234100210,Civil,Zubair Karim,2002-01-24,male,zubair.karim210@bubt.edu.bd,01418338186,2025-01-05
+22234100370,textile,Riya Begum,2005-03-17,F,riya.begum370@bubt.edu.bd,01839845082,2025-01-05
+22234100381,TEXTILE,Nafis Khan,2004-04-06,M,,01427610141,2025-01-05
+22234100368,TEXTILE,Farzana Akter,2005-09-05,Male,farzana.akter368@bubt.edu.bd,01535281262,2025-01-05
+22234100072,CSE,Jannat Uddin,2004-06-25,M,jannat.uddin72@bubt.edu.bd,01650987442,2025-01-05
+22234100253,Civil,Maliha Islam,2003-07-05,male,maliha.islam253@bubt.edu.bd,01332442197,2025-01-05
+22234100085,Cse,Nafis Begum,2004-04-30,Female,nafis.begum85@bubt.edu.bd,01471308842,2025-01-05
+22234100024, CSE ,Shanto Rahman,2005-06-22,Female,shanto.rahman24@bubt.edu.bd,01780166708,2025-01-05
+22234100055,cse,Tanvir Uddin,2003-12-18,Female,tanvir.uddin55@bubt.edu.bd,01815403355,2025-01-05
+22234100360,TEXTILE,Sadia Islam,2003-01-30,male,sadia.islam360@bubt.edu.bd,+8801343486016,2025-01-05
+22234100192,E.E.E,Sabrina Karim,2003-09-06,male,sabrina.karim192bubt.edu.bd,01524710878,2025-01-05
+22234100268,CIVIL,Jannat Rahman,2005-06-11,Female,jannat.rahman268@bubt.edu.bd,+8801662188655,2025-01-05
+22234100281,civil ,Fahim Akter,2005-12-12,Male,fahim.akter281@bubt.edu.bd,01979043610,2025-01-05
+22234100150,eee,Jannat Sultana,2004-12-16,Male,jannat.sultana150@bubt.edu.bd,01491156554,2025-01-05
+22234100325,textile,Sakib Sultana,2004-02-24,Male,sakib.sultana325@bubt.edu.bd,01980573568,2025-01-05
+22234100182,EEE,Shanto Islam,2003-10-03,male,shanto.islam182@bubt.edu.bd,01956354851,2025-01-05
+22234100175,EEE,Tanvir Islam,2004-07-10,Female,tanvir.islam175@bubt.edu.bd,01483994695,2025-01-05
+22234100002, CSE ,Fahim Hossain,2004-02-15,M,fahim.hossain2@bubt.edu.bd,01893016315,2025-01-05
+22234100114,E.E.E,Ayesha Begum,2004-05-12,M,ayesha.begum114@bubt.edu.bd,01670166480,2025-01-05
+22234100338,textile,Sabrina Hasan,2005-08-01,Male,sabrina.hasan338@bubt.edu.bd,01345596211,2025-01-05
+22234100389,TEXTILE,Lamia Akter,2002-12-24,Male,lamia.akter389@bubt.edu.bd,01551970837,2025-01-05
+22234100050,Cse,Nusrat Ahmed,2004-05-10,F,nusrat.ahmed50@bubt.edu.bd,01812621534,2025-01-05
+22234100059,CSE,Rafi Sarker,2003-12-13,F,rafi.sarker59@bubt.edu.bd,01377908907,2025-01-05
